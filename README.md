@@ -7,7 +7,7 @@ Description: A project for managing college information.
 
 
 
-Developed By:Megharaj cholli
+Developed By:Megharaj cholli & Megha Sawant
 
 
 
